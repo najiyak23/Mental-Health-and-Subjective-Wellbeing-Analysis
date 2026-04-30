@@ -28,7 +28,7 @@ This study is based on cross-sectional survey data, so it cannot identify causal
 
 ## Read full Project on
 
-[Subjective Wellbeing and Mental Health.pdf](https://github.com/your-username/your-repository/blob/main/Subjective%20Wellbeing%20and%20Mental%20Health.pdf)
+[Subjective Wellbeing and Mental Health.pdf](https://github.com/najiyak23/Mental-Health-and-Subjective-Wellbeing-Analysis/blob/main/Subjective%20Wellbeing%20and%20Mental%20Health.pdf)
 
 ## Conclusion
 
